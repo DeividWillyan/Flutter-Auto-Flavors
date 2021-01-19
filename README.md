@@ -9,7 +9,7 @@ to execute the flavors:
 
 ```dart
 flutter run
-flutter run --dart-define = DEFINE_APP_NAME = '[QA] App Flavor' --dart-define = DEFINE_APP_SUFFIX = .qa
-flutter run --dart-define = DEFINE_APP_NAME = '[DEV] App Flavor' --dart-define = DEFINE_APP_SUFFIX = .dev
+flutter run --dart-define=DEFINE_APP_NAME='[QA] App Flavor' --dart-define=DEFINE_APP_SUFFIX=.qa
+flutter run --dart-define=DEFINE_APP_NAME='[DEV] App Flavor' --dart-define=DEFINE_APP_SUFFIX=.dev
 ```
 
