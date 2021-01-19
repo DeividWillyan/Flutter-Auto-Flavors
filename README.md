@@ -2,7 +2,7 @@ To add the Flavors to the application, place these files in a directory called f
 
 ```bash
 cd flavor
-chmod + x flavor.sh && ./flavor.sh "App Flavor" # App Name
+chmod +x flavor.sh && ./flavor.sh "App Flavor" # App Name
 ```
 
 to execute the flavors:
